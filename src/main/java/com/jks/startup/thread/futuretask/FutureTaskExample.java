@@ -36,7 +36,7 @@ public class FutureTaskExample {
             } catch (InterruptedException | ExecutionException e) {
                 e.printStackTrace();
             }catch(TimeoutException e){
-                //do nothing
+                //e.printStackTrace();
             }
         }
 
