@@ -1,4 +1,4 @@
-package com.jks.startup.thread.divideandconquerrule;
+package com.jks.startup.thread.future.divideandconquerrule;
 
 import java.util.concurrent.Callable;
 
