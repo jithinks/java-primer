@@ -2,7 +2,7 @@ package com.jks.startup.thread.divideandconquerrule;
 
 import java.util.concurrent.Callable;
 
-public class CallableAdder implements Callable{
+public class CallableAdder implements Callable<Integer>{
     private Integer operand1;
     private Integer operand2;
 
