@@ -7,3 +7,5 @@ Tutorials
 3. Netflix: Simian Army - 
     https://medium.com/netflix-techblog/the-netflix-simian-army-16e57fbab116
     https://github.com/Netflix/SimianArmy
+    https://medium.com/netflix-techblog
+    Alternative: http://www.gremlin.com/product/
